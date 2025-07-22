@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="public/readme/home.jpg" alt="Project Banner">  
+      <img src="public/assets/images/home.png" alt="Project Banner">  
   <br />
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
